@@ -1,5 +1,7 @@
 # Ravenous
 
+a React app to search for restaurants using the Yelp API
+
 ## Description
 
 This project was bootstrapped with [Create React App]
