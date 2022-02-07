@@ -1,10 +1,10 @@
 # Ravenous
 
-a React app to search for restaurants using the Yelp API
+This is a project of Codecademy.
 
 ## Description
 
-This project was bootstrapped with [Create React App]
+React app to search for restaurants using the Yelp API.
 
 ## Features
 
